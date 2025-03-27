@@ -2,7 +2,7 @@ const task = [
     "500 Lights On/Head Count",
     "530 Meds/Breafast",
     "600 Laundry Pickup/Coolers filled",
-    "615 secuirty check",
+    "615 security check",
     "630 Pre-trial for latest bookings",
     "700 1st round on big docket prepare for court",
     "800 Court Round 1 leaves facility",
